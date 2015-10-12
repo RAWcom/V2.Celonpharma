@@ -1,0 +1,5 @@
+C:\_GitHub\v2.celonpharma\EventReceivers\bin\Release\V2.Celonpharma.EventReceivers.dll
+C:\_GitHub\v2.celonpharma\EventReceivers\obj\Release\EventReceivers.csprojResolveAssemblyReference.cache
+C:\_GitHub\v2.celonpharma\EventReceivers\obj\Release\V2.Celonpharma.EventReceivers.dll
+C:\_GitHub\V2.Celonpharma\EventReceivers\bin\Release\V2.Celonpharma.EventReceivers.pdb
+C:\_GitHub\V2.Celonpharma\EventReceivers\obj\Release\V2.Celonpharma.EventReceivers.pdb

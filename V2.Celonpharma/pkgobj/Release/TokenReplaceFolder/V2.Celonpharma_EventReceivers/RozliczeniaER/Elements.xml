@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Receivers ListUrl="Z/Lists/Rozliczenia">
+      <Receiver>
+        <Name>RozliczeniaERItemUpdating</Name>
+        <Type>ItemUpdating</Type>
+        <Assembly>V2.Celonpharma.EventReceivers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=2ac701e9aabff541</Assembly>
+        <Class>EventReceivers.RozliczeniaER.RozliczeniaER</Class>
+        <SequenceNumber>10000</SequenceNumber>
+      </Receiver>
+      <Receiver>
+        <Name>RozliczeniaERItemDeleting</Name>
+        <Type>ItemDeleting</Type>
+        <Assembly>V2.Celonpharma.EventReceivers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=2ac701e9aabff541</Assembly>
+        <Class>EventReceivers.RozliczeniaER.RozliczeniaER</Class>
+        <SequenceNumber>10000</SequenceNumber>
+      </Receiver>
+
+  </Receivers>
+</Elements>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="3a021e35-8bad-480d-a8c3-a2c2b1f87993" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="V2.Celonpharma.BLL.dll" DeploymentTarget="GlobalAssemblyCache" />
+    <Assembly Location="V2.Celonpharma.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="V2.Celonpharma_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

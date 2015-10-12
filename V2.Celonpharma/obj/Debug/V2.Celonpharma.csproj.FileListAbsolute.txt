@@ -1,0 +1,5 @@
+C:\_GitHub\v2.celonpharma\V2.Celonpharma\bin\Debug\V2.Celonpharma.dll
+C:\_GitHub\v2.celonpharma\V2.Celonpharma\bin\Debug\V2.Celonpharma.pdb
+C:\_GitHub\v2.celonpharma\V2.Celonpharma\obj\Debug\V2.Celonpharma.csprojResolveAssemblyReference.cache
+C:\_GitHub\v2.celonpharma\V2.Celonpharma\obj\Debug\V2.Celonpharma.dll
+C:\_GitHub\v2.celonpharma\V2.Celonpharma\obj\Debug\V2.Celonpharma.pdb

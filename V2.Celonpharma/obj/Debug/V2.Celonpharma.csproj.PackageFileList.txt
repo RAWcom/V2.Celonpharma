@@ -1,0 +1,1 @@
+bin\Debug\V2.Celonpharma.wsp

@@ -1,0 +1,4 @@
+C:\_GitHub\v2.celonpharma\V2.Celonpharma\bin\Release\V2.Celonpharma.dll
+C:\_GitHub\v2.celonpharma\V2.Celonpharma\bin\Release\V2.Celonpharma.pdb
+C:\_GitHub\v2.celonpharma\V2.Celonpharma\obj\Release\V2.Celonpharma.dll
+C:\_GitHub\v2.celonpharma\V2.Celonpharma\obj\Release\V2.Celonpharma.pdb

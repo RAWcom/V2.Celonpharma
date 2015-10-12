@@ -1,0 +1,8 @@
+C:\_GitHub\v2.celonpharma\Zaliczki\BLL\bin\Debug\V2.Celonpharma.BLL.dll
+C:\_GitHub\v2.celonpharma\Zaliczki\BLL\obj\Debug\V2.Celonpharma.BLL.dll
+C:\_GitHub\v2.celonpharma\Zaliczki\BLL\bin\Debug\V2.Celonpharma.BLL.pdb
+C:\_GitHub\v2.celonpharma\Zaliczki\BLL\obj\Debug\V2.Celonpharma.BLL.pdb
+C:\_GitHub\V2.Celonpharma\BLL\bin\Debug\V2.Celonpharma.BLL.dll
+C:\_GitHub\V2.Celonpharma\BLL\bin\Debug\V2.Celonpharma.BLL.pdb
+C:\_GitHub\V2.Celonpharma\BLL\obj\Debug\V2.Celonpharma.BLL.dll
+C:\_GitHub\V2.Celonpharma\BLL\obj\Debug\V2.Celonpharma.BLL.pdb
