@@ -6,3 +6,4 @@ C:\_GitHub\V2.Celonpharma\BLL\bin\Release\V2.Celonpharma.BLL.dll
 C:\_GitHub\V2.Celonpharma\BLL\bin\Release\V2.Celonpharma.BLL.pdb
 C:\_GitHub\V2.Celonpharma\BLL\obj\Release\V2.Celonpharma.BLL.dll
 C:\_GitHub\V2.Celonpharma\BLL\obj\Release\V2.Celonpharma.BLL.pdb
+C:\_GitHub\V2.Celonpharma\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache

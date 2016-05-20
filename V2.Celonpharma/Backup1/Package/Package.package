@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="3a021e35-8bad-480d-a8c3-a2c2b1f87993" solutionId="3a021e35-8bad-480d-a8c3-a2c2b1f87993" resetWebServer="false" name="V2.Celonpharma" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <assemblies>
+    <projectOutputAssembly location="V2.Celonpharma.BLL.dll" deploymentTarget="GlobalAssemblyCache" projectPath="..\BLL\BLL.csproj" />
+  </assemblies>
+  <features>
+    <featureReference itemId="14cce109-e575-4ea7-9bed-40b915ca6056" />
+  </features>
+</package>

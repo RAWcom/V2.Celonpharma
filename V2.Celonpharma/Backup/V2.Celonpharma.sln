@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V2.Celonpharma", "V2.Celonpharma.csproj", "{399D0EA0-66AD-4867-ACE4-93863EDC29DF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4B21F623-FFEB-4012-87AF-E20FB2517E9F} = {4B21F623-FFEB-4012-87AF-E20FB2517E9F}
+		{FF05EA3F-C57C-4B6A-9239-2B3E928A2B0A} = {FF05EA3F-C57C-4B6A-9239-2B3E928A2B0A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventReceivers", "..\EventReceivers\EventReceivers.csproj", "{FF05EA3F-C57C-4B6A-9239-2B3E928A2B0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "..\BLL\BLL.csproj", "{4B21F623-FFEB-4012-87AF-E20FB2517E9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{399D0EA0-66AD-4867-ACE4-93863EDC29DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{399D0EA0-66AD-4867-ACE4-93863EDC29DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{399D0EA0-66AD-4867-ACE4-93863EDC29DF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{399D0EA0-66AD-4867-ACE4-93863EDC29DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{399D0EA0-66AD-4867-ACE4-93863EDC29DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{399D0EA0-66AD-4867-ACE4-93863EDC29DF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FF05EA3F-C57C-4B6A-9239-2B3E928A2B0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF05EA3F-C57C-4B6A-9239-2B3E928A2B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF05EA3F-C57C-4B6A-9239-2B3E928A2B0A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FF05EA3F-C57C-4B6A-9239-2B3E928A2B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF05EA3F-C57C-4B6A-9239-2B3E928A2B0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF05EA3F-C57C-4B6A-9239-2B3E928A2B0A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4B21F623-FFEB-4012-87AF-E20FB2517E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B21F623-FFEB-4012-87AF-E20FB2517E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B21F623-FFEB-4012-87AF-E20FB2517E9F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4B21F623-FFEB-4012-87AF-E20FB2517E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B21F623-FFEB-4012-87AF-E20FB2517E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B21F623-FFEB-4012-87AF-E20FB2517E9F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
